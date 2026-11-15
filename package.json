@@ -1,0 +1,7 @@
+{
+  "name": "student-stay", "version": "1.0.0", "private": true,
+  "type": "module",
+  "scripts": {"build": "vite build", "watch": "vite build --watch"},
+  "dependencies": {"bootstrap": "^5.3.3", "react": "^19.0.0", "react-dom": "^19.0.0"},
+  "devDependencies": {"vite": "^7.0.0"}
+}
