@@ -357,7 +357,7 @@ test results. They are not independent or automated verification.
 | Direct access to `/app/bootstrap.php` | Passed | Returned 403 Forbidden |
 | Live deployment | Deployed; final URL recheck required | Homepage previously opened; later wrong-domain report needs confirmation |
 | Shortlist separation between users | Passed | User A's shortlist was not visible to User B; each account retained its own saved properties |
-| Fresh installation from repository | Not recorded | Complete and record a clean setup check |
+| Fresh installation from repository | Passed | Created a separate test database, imported database/schema.sql, installed dependencies, built the frontend, started the local PHP server, and confirmed the listed features worked |
 
 Only retain a Passed status when the corresponding test
 was actually completed.
