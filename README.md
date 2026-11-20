@@ -7,7 +7,7 @@ The project helps students browse accommodation, narrow results using filters, v
 ## 1. Project Links
 
 - Live website: https://studentstay-parag.wuaze.com/
-- GitHub repository: REPLACE_WITH_YOUR_ACTUAL_REPOSITORY_URL
+- GitHub repository: https://github.com/paragpal4805/student-stay
 
 The intended live domain is `studentstay-parag.wuaze.com`, not `studentstay.com`.
 
