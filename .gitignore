@@ -1,4 +1,17 @@
-node_modules/
-public/assets/
-config.php
+# Local private configuration
+/config.php
+.env
+.env.*
+!.env.example
+
+# Local dependencies
+/node_modules/
+
+# Local submission archive
+/student-stay.zip
+
+# Generated frontend build output
+/public/assets/
+
+# Log files
 *.log
