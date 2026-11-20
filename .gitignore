@@ -15,3 +15,6 @@
 
 # Log files
 *.log
+
+# Local configuration backups
+config.php.backup
